@@ -1,4 +1,3 @@
-# portfolio
 ## Phone: +1 573-227-8958
 ## Email:  sreejareddynalla8@gmail.com
 ## LinkedIn: [www.linkedin.com/in/sreeja-nalla](www.linkedin.com/in/sreeja-nalla)
