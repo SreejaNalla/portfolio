@@ -1,9 +1,9 @@
 # portfolio
-## Phone: 573-227-8958
+## Phone: +1 573-227-8958
 ## Email:  sreejareddynalla8@gmail.com
 ## LinkedIn: [www.linkedin.com/in/sreeja-nalla](www.linkedin.com/in/sreeja-nalla)
 
-### Professioanl Summary:
+## Professioanl Summary:
 •	Around 6 years of experience in design, development, unit testing and documenting of both web-based and client-server applications using Java / J2EE and also experience in gathering, analyzing requirements. 
 
 •	Experience in full Software Development Life Cycle (SDLC) starting from collecting Business specifications, Analysis, Design and Development, Testing and documenting the entire life cycle using various methodologies   like Waterfall, Agile, SCRUM, and Test Driven Development.
@@ -49,7 +49,7 @@ GPA 3.53/4.0
 BACHELORS IN COMPUTER SCIENCE AND ENGINEERING
 GPA 3.47/4.0
 
-# Technical Skills:
+## Technical Skills:
 Languages: 	Java, C, C++, SQL, PL/SQL, Shell Scripting.
 J2EE/JEE Technologies: 	Servlets, JSP, EJB, JMS, JDBC, JNDI, JSP, JAX-WS, Web Services (REST, SOAP), Java Persistence API, MVC Architecture, Struts, Spring, Spring Boot, Micro Services, Hibernate, HTML, DHTML, XML, XSL, CSS, and Amazon Web Services (AWS).
 Operating Systems: 	Windows, LINUX, UNIX, Solaris.
