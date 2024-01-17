@@ -12,24 +12,3 @@ My skills extend to web front-end development with HTML, CSS, JavaScript, and fr
 
 <br /> 
 
-## Education:
-•	MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY, MO		              
-MASTERS IN COMPUTER SCIENCE
-GPA 3.53/4.0
-<br /> 
-•	VIGNAN INSTITUTE OF TECHNOLOGY AND SCIENCE, TS, INDIA		 
-BACHELORS IN COMPUTER SCIENCE AND ENGINEERING
-GPA 3.47/4.0
-<br /> 
-## Technical Skills:
-Languages: 	Java, C, C++, SQL, PL/SQL, Shell Scripting. <br /> 
-J2EE/JEE Technologies: 	Servlets, JSP, EJB, JMS, JDBC, JNDI, JSP, JAX-WS, Web Services (REST, SOAP), Java Persistence API, MVC Architecture, Struts, Spring, Spring Boot, Micro Services, Hibernate, HTML, DHTML, XML, XSL, CSS, and Amazon Web Services (AWS).<br /> 
-Operating Systems: 	Windows, LINUX, UNIX, Solaris.<br /> 
-Databases: 	Oracle (10g, 11g).<br /> 
-Application/Web servers: 	Apache Tomcat, JBoss,  WebLogic and WebSphere <br /> 
-Messaging:	JMS. <br /> 
-Web Design: 	HTML/HTML5, Java Script, CSS/CSS3, React, jQuery, Angular. <br /> 
-Build & Integration Tools: 	Maven, ANT and Jenkins. <br /> 
-IDE: 	Eclipse, IntelliJ, SQL Developer, TOAD, SQL Developer Data Modeler and SOAP UI. <br /> 
-Version Control Tools: 	CVS, Subversion (SVN), GIT, Perforce. <br /> 
-Issue & Project Tracking Tools: 	JIRA. <br /> 
