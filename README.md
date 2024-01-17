@@ -4,41 +4,14 @@
 ## LinkedIn: [www.linkedin.com/in/sreeja-nalla](www.linkedin.com/in/sreeja-nalla)
 
 ## Professioanl Summary:
-•	Around 6 years of experience in design, development, unit testing and documenting of both web-based and client-server applications using Java / J2EE and also experience in gathering, analyzing requirements. 
 
-•	Experience in full Software Development Life Cycle (SDLC) starting from collecting Business specifications, Analysis, Design and Development, Testing and documenting the entire life cycle using various methodologies   like Waterfall, Agile, SCRUM, and Test Driven Development.
+With 6 years of experience, I've excelled in designing, developing, and testing web-based and client-server applications using Java/J2EE. Proficient in SDLC methodologies (Waterfall, Agile, SCRUM, TDD), I've designed applications using J2EE patterns, coordinated with global teams, and developed with technologies like Servlets, JSP, JDBC, EJB, JMS, SOAP, and REST.
 
-•	Designed and developed applications using J2EE Design patterns.	
+Expert in Spring framework, I've implemented IOC and configured application context. Used code review tools like HP Fortify, FindBugs, and developed data models with ORM frameworks. Leveraging Spring Boot and Hibernate, I created server-side applications, integrating WebLogic MQ JMS for communication.
 
-•	Experience in coordinating with global teams in reaching the deliverables.
+My skills extend to web front-end development with HTML, CSS, JavaScript, and frameworks like Angular. I've worked with application servers (JBOSS, WebLogic) and version control tools (SVN, CVS, GIT). Proficient in back-end programming (SQL, PL/SQL), I use tools like Eclipse, IntelliJ, TOAD, and SOAP UI. A motivated team player, I possess strong communication, analytical, and problem-solving skills, staying passionate about learning new technologies and industry developments.
 
-•	Experience in designing, developing applications using J2EE/JEE technologies like Servlets, JSP, JDBC, JNDI, EJB and JMS and Web Services using SOAP and REST / RESTful.
 
-•	Expertise in developing light weight business component and integrated applications using spring framework, spring web MVC using features like IOC and configuring application context for spring bean factory.
-
-•	Implemented Cross cutting concerns like logging and declarative transaction management using Spring AOP.
-
-•	Experience in working with code review tools including HP Fortify and Find bugs.
-
-•	Experience in developing data models using ORM and Hibernate and OJB Object relational mapping (ORM) frameworks.
-
-•	Developed server side application to interact with database using Spring Boot and Hibernate.
-
-•	Integrated the applications, configured the WebLogic MQ JMS in applications to communicate to MQ for sending/receiving messages between different systems using queues.
-
-•	Experience with web front end development using HTML, HTML 5, XHTML, DHTML, XML, XSLT, JSON, CSS, CSS3, JSP, JavaScript, AJAX, jQuery, Angular.
-
-•	Hands on experience in using various Application Servers like JBOSS, WebLogic, and web servers like Apache Tomcat.
-
-•	Experience with Subversion using SVN, CVS, GIT and Perforce.
-
-•	Good back end programming skills using SQL, PL/SQL, Cursors, Stored Procedures, materialized views and Triggers in Oracle.
-
-•	Expertise with tools including Eclipse, IntelliJ-IDE, Oracle SQL Developer, TOAD, Oracle SQL Developer Data Modeler and SOAP UI. 
-
-•	Motivated team player with ability to work under minimal supervision possessing excellent communication, interpersonal, analytical and problem solving skills.
-
-•	Passionate about learning new technologies with a keen awareness of new industry developments and the evolution of next generation programming solutions.
 
 ## Education:
 •	MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY, MO		              
