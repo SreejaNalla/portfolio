@@ -2,35 +2,6 @@
 ## Email:  sreejareddynalla8@gmail.com
 ## LinkedIn: [www.linkedin.com/in/sreeja-nalla](www.linkedin.com/in/sreeja-nalla)
 
-<script>
-function openTab(tabName) {
-    var i;
-    var x = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";
-    }
-    document.getElementById(tabName).style.display = "block";
-}
-</script>
-
-# Sreeja Reddy Nalla
-
-[Click Here](javascript:void(0);) to view:
-
-<button onclick="openTab('tab1')">Tab 1</button>
-<button onclick="openTab('tab2')">Tab 2</button>
-
-<div id="tab1" class="tabcontent" style="display:none;">
-    <!-- Content for Tab 1 -->
-    This is the content of Tab 1.
-</div>
-
-<div id="tab2" class="tabcontent" style="display:none;">
-    <!-- Content for Tab 2 -->
-    This is the content of Tab 2.
-</div>
-
-
 ## Professioanl Summary:
 
 With 6 years of experience, I've excelled in designing, developing, and testing web-based and client-server applications using Java/J2EE. Proficient in SDLC methodologies (Waterfall, Agile, SCRUM, TDD), I've designed applications using J2EE patterns, coordinated with global teams, and developed with technologies like Servlets, JSP, JDBC, EJB, JMS, SOAP, and REST.
