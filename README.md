@@ -1,7 +1,7 @@
 # portfolio
 ## Phone: 573-227-8958
 ## Email:  sreejareddynalla8@gmail.com
-## LinkedIn: [ www.linkedin.com/in/sreeja-nalla]( www.linkedin.com/in/sreeja-nalla)
+## LinkedIn: [www.linkedin.com/in/sreeja-nalla](www.linkedin.com/in/sreeja-nalla)
 
 ### Professioanl Summary:
 •	Around 6 years of experience in design, development, unit testing and documenting of both web-based and client-server applications using Java / J2EE and also experience in gathering, analyzing requirements. 
