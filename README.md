@@ -2,7 +2,7 @@
 ## Email:  sreejareddynalla8@gmail.com
 ## LinkedIn: [www.linkedin.com/in/sreeja-nalla](www.linkedin.com/in/sreeja-nalla)
 
-## Professioanl Summary:
+## Professional Summary:
 
 With 6 years of experience, I've excelled in designing, developing, and testing web-based and client-server applications using Java/J2EE. Proficient in SDLC methodologies (Waterfall, Agile, SCRUM, TDD), I've designed applications using J2EE patterns, coordinated with global teams, and developed with technologies like Servlets, JSP, JDBC, EJB, JMS, SOAP, and REST.
 <br /> 
