@@ -1,9 +1,9 @@
 # portfolio
-Phone: 573-227-8958
-Email:  sreejareddynalla8@gmail.com
-LinkedIn: www.linkedin.com/in/sreeja-nalla-31b6002a9
+## Phone: 573-227-8958
+## Email:  sreejareddynalla8@gmail.com
+## LinkedIn: www.linkedin.com/in/sreeja-nalla-31b6002a9
 
-Summary:
+### Professioanl Summary:
 •	Around 6 years of experience in design, development, unit testing and documenting of both web-based and client-server applications using Java / J2EE and also experience in gathering, analyzing requirements. 
 •	Experience in full Software Development Life Cycle (SDLC) starting from collecting Business specifications, Analysis, Design and Development, Testing and documenting the entire life cycle using various methodologies   like Waterfall, Agile, SCRUM, and Test Driven Development.
 •	Designed and developed applications using J2EE Design patterns.	
@@ -23,16 +23,16 @@ Summary:
 •	Motivated team player with ability to work under minimal supervision possessing excellent communication, interpersonal, analytical and problem solving skills.
 •	Passionate about learning new technologies with a keen awareness of new industry developments and the evolution of next generation programming solutions.
 
-Education:
+## Education:
 •	MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY, MO		              
 MASTERS IN COMPUTER SCIENCE
 GPA 3.53/4.0
 
-•	JAWAHARLAL TECHNOLOGICAL UNIVERSITY HYDERABAD, TS, INDIA		 
+•	VIGNAN INSTITUTE OF TECHNOLOGY AND SCIENCE, TS, INDIA		 
 BACHELORS IN COMPUTER SCIENCE AND ENGINEERING
 GPA 3.47/4.0
 
-Technical Skills:
+# Technical Skills:
 Languages: 	Java, C, C++, SQL, PL/SQL, Shell Scripting.
 J2EE/JEE Technologies: 	Servlets, JSP, EJB, JMS, JDBC, JNDI, JSP, JAX-WS, Web Services (REST, SOAP), Java Persistence API, MVC Architecture, Struts, Spring, Spring Boot, Micro Services, Hibernate, HTML, DHTML, XML, XSL, CSS, and Amazon Web Services (AWS).
 Operating Systems: 	Windows, LINUX, UNIX, Solaris.
